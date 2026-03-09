@@ -1,2 +1,11 @@
 # NETRA-AI: National Enhanced Tracking and Real-time Analytics
+
 NETRA-AI is a high-performance, AI-driven surveillance system designed for real-time suspect triangulation. This dashboard is tailored for the Delhi Police "Safe City" vision, providing a unified operational picture for tracking targets across city-wide camera grids.
+
+🏛 Vision and Mission
+
+Shanti (Peace): Preventing crime through AI-enabled behavioral analysis.
+
+Seva (Service): Rapid response through integrated PCR unit dispatch.
+
+Nyaya (Justice): Maintaining tamper-proof audit logs for investigative integrity.
