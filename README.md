@@ -67,4 +67,24 @@ Run the server:
 ```bash
 python main.py
 ```
+## 2. Frontend Setup (React and Vite)
+
+Open a new terminal and navigate to the frontend folder:
+
+```bash
+cd frontend
+```
+Install dependencies:
+
+```bash
+npm install
+```
+
+Start the development server:
+
+```bash
+npm run dev
+```
+
+Open your browser at: http://localhost:5173
 
