@@ -16,4 +16,5 @@ Frontend: React 18, TypeScript, Tailwind CSS.
 Backend: FastAPI (Python), WebSockets for real-time data streaming
 Logic: SVG-based trajectory mapping and AI confidence scoring
 
-🎥 System Demo
+📂 Project Structure
+
