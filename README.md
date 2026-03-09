@@ -89,4 +89,12 @@ npm run dev
 Open your browser at: http://localhost:5173
 
 
-🛡 Security and Audit Features
+## 🛡 Security and Audit Features
+
+- **Audit Logs:** Every action like a mission reset or alert acknowledgment is recorded with a timestamp.
+- **RBAC Logic:** Distinct permission levels for Admin, Officer, and Viewer roles.
+- **Gov-Ready Architecture:** Optimized for deployment within secure, air-gapped government networks.
+
+⚖️ Legal Disclaimer
+
+This software is a Technical Prototype. Delhi Police branding and logos are used for conceptual visualization only. No real surveillance data is processed or stored in this version.
