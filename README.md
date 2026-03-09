@@ -38,7 +38,7 @@ NETRA-AI
 │
 └── README.md
 ```
-🚀 Installation Guide
+## 🚀 Installation Guide
 
 ## 1. Backend Setup (FastAPI)
 
