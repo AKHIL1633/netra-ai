@@ -38,3 +38,15 @@ NETRA-AI
 │
 └── README.md
 ```
+🚀 Installation Guide
+
+## 1. Backend Setup (FastAPI)
+
+Navigate to the backend folder:
+
+```bash
+cd backend
+```
+Create a virtual environment:
+
+python -m venv .venv
