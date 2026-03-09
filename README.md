@@ -9,3 +9,11 @@ Shanti (Peace): Preventing crime through AI-enabled behavioral analysis.
 Seva (Service): Rapid response through integrated PCR unit dispatch.
 
 Nyaya (Justice): Maintaining tamper-proof audit logs for investigative integrity.
+
+🛠 Tech Stack
+
+Frontend: React 18, TypeScript, Tailwind CSS.
+Backend: FastAPI (Python), WebSockets for real-time data streaming
+Logic: SVG-based trajectory mapping and AI confidence scoring
+
+🎥 System Demo
