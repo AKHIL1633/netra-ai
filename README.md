@@ -53,4 +53,20 @@ Create a virtual environment:
 python -m venv .venv
 ```
 
+Activate the environment:
+
+Mac/Linux: source .venv/bin/activate
+Windows: .venv\Scripts\activate
+
+Install requirements:
+
+```bash
+pip install -r requirements.txt
+```
+
+Run the server:
+
+```bash
+python main.py
+```
 
