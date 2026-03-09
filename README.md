@@ -10,7 +10,7 @@ Seva (Service): Rapid response through integrated PCR unit dispatch.
 
 Nyaya (Justice): Maintaining tamper-proof audit logs for investigative integrity.
 
-🛠 Tech Stack
+## 🛠 Tech Stack
 
 Frontend: React 18, TypeScript, Tailwind CSS.
 Backend: FastAPI (Python), WebSockets for real-time data streaming
