@@ -18,3 +18,19 @@ Logic: SVG-based trajectory mapping and AI confidence scoring
 
 📂 Project Structure
 
+NETRA-AI
+├── backend
+│   ├── app
+│   │   ├── api (alerts.py, incidents.py)
+│   │   ├── data (mock_alerts.json, mock_tracking.json)
+│   │   ├── models (alert.py, tracking.py)
+│   │   └── ws (live_tracking.py)
+│   └── main.py
+├── frontend
+│   ├── src
+│   │   ├── components (UI Blocks)
+│   │   ├── hooks (WebSocket Logic)
+│   │   ├── pages (App.tsx Dashboard)
+│   │   └── styles (Tailwind CSS)
+│   └── package.json
+└── README.md
