@@ -4,11 +4,9 @@ NETRA-AI is a high-performance, AI-driven surveillance system designed for real-
 
 ## 🏛 Vision and Mission
 
-Shanti (Peace): Preventing crime through AI-enabled behavioral analysis.
-
-Seva (Service): Rapid response through integrated PCR unit dispatch.
-
-Nyaya (Justice): Maintaining tamper-proof audit logs for investigative integrity.
+- **Shanti (Peace):** Preventing crime through AI-enabled behavioral analysis.  
+- **Seva (Service):** Rapid response through integrated PCR unit dispatch.  
+- **Nyaya (Justice):** Maintaining tamper-proof audit logs for investigative integrity
 
 ## 🛠 Tech Stack
 
