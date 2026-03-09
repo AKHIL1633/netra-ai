@@ -18,6 +18,7 @@ Logic: SVG-based trajectory mapping and AI confidence scoring
 
 📂 Project Structure
 
+```
 NETRA-AI
 ├── backend
 │   ├── app
@@ -26,6 +27,7 @@ NETRA-AI
 │   │   ├── models (alert.py, tracking.py)
 │   │   └── ws (live_tracking.py)
 │   └── main.py
+│
 ├── frontend
 │   ├── src
 │   │   ├── components (UI Blocks)
@@ -33,4 +35,6 @@ NETRA-AI
 │   │   ├── pages (App.tsx Dashboard)
 │   │   └── styles (Tailwind CSS)
 │   └── package.json
+│
 └── README.md
+```
