@@ -88,3 +88,5 @@ npm run dev
 
 Open your browser at: http://localhost:5173
 
+
+🛡 Security and Audit Features
